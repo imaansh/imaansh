@@ -13,6 +13,8 @@ I'm passionate about Data engineering, science, and analysis, I love to work on 
 - **Machine Learning**: TensorFlow, PyTorch, sci-kit-learn
 - **Data Visualization**: Tableau, Matplotlib
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imaansh&show_icons=true&theme=radical)
+
 ### 🔗 Let's Connect
 - [LinkedIn](www.linkedin.com/in/imaan-shahid-57b475163)
 - [Email](imaan.shahid31@gmail.com)
