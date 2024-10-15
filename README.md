@@ -12,8 +12,15 @@ I'm passionate about Data engineering, science, and analysis, I love to work on 
 - **Languages**: Python, SQL, C++
 - **Machine Learning**: TensorFlow, PyTorch, sci-kit-learn
 - **Data Visualization**: Tableau, Matplotlib
+- **Cloud**: Google Cloud Platform
 
+## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imaansh&show_icons=true&theme=radical)
+
+## 🛠️ Languages Used
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imaansh&layout=compact)
+
 
 ### 🔗 Let's Connect
 - [LinkedIn](www.linkedin.com/in/imaan-shahid-57b475163)
