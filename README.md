@@ -10,7 +10,7 @@ Passionate about Data engineering, science, and analysis, love to work on innova
 
 ## 🛠️ Technologies & Tools
 - **Languages**: Python, SQL, C++
-- **Machine Learning**: TensorFlow, PyTorch, sci-kit-learn
+- **Machine Learning**: TensorFlow, PyTorch, sci-kit-learn, LLM, RAG, LangGraph, LangChain
 - **Data Visualization**: Tableau, Matplotlib
 - **Cloud**: Google Cloud Platform
 
